@@ -11,7 +11,7 @@ We meet Tuesdays, 11am, in room 527, 60FA.
 | ---- | ------- | ----- |
 | Sep 8  |       | Organizational Meeting
 | Sep 15 | Chaitanya Agarwal | **Talk**  PAC Statistical Model Checking for Markov Decision Processes and Stochastic Games
-| Sep 22 |       | **Talk** TBD
+| Sep 22 | Adam Chen (Stevens)      | **Talk** Veracity: Declarative Multicore Programming with Commutativity
 | Sep 29 |       |
 | Oct 6  |       |
 | Oct 13 |       |
