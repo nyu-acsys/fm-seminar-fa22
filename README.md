@@ -104,6 +104,22 @@ TBA.
 
 #### A.4. Axiomatic Memory Models
 
+  - Alglave, Maranget, Tautschnig:
+    *Herding cats: Modelling, Simulation, Testing, and Data-mining for Weak Memory.*
+    TOPLAS 2013.
+    [[PDF]](http://www0.cs.ucl.ac.uk/staff/j.alglave/papers/toplas14.pdf)
+ 
+  - Alglave, Maranget, Sarkar, Sewell:
+    *Fences in Weak Memory Models.*
+    CAV 2010.
+    [[PDF]](http://www0.cs.ucl.ac.uk/staff/J.Alglave/papers/cav10.pdf)
+    
+  - Alglave.
+    *A formal hierarchy of weak memory models.*
+    FMSD 2012.
+    [[PDF]](http://www0.cs.ucl.ac.uk/staff/J.Alglave/papers/fmsd12-41-2.pdf)
+    
+
 TBA.
 
 ### B.  Non-volatile Memory
