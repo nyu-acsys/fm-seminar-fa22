@@ -13,17 +13,17 @@ We meet Tuesdays, 11am, in room 527, 60FA.
 | Sep 15 | Chaitanya Agarwal | **Talk**  PAC Statistical Model Checking for Markov Decision Processes and Stochastic Games
 | Sep 22 | Adam Chen (Stevens)      | **Talk** Veracity: Declarative Multicore Programming with Commutativity
 | Sep 29 | Stefan Leue (Uni. of Konstanz) | **Talk** Checking Legal Contracts and Repairing Neural Networks
-| Oct 6  |       |
-| Oct 13 |       |
-| Oct 20 |       |
-| Oct 27 |       |
-| Nov 3  |       |
+| Oct 6  | Sebastian Wolff      | A.1 Sequential consistency
+| Oct 13 | Zach Destefano      | A.2 TSO: Modeling - TSO intro
+| Oct 20 | Nisarg Patel      | A.2 TSO: Modeling - TSO characterization
+| Oct 27 | Jacob Salzberg     | A.2 TSO: Verification
+| Nov 3  | Daniel Feldan      | A.4 Axiomatic models
 | Nov 10 |       |
 | Nov 17 |       |
 | Nov 24 |       | Thanksgiving
 | Dec 1  |       | 
 | Dec 8  |       | 
-| Dec 15 |       | 
+| Dec 15 | Kishor Jothimurugan (UPenn)  | **Talk** Specification-guided Reinforcement Learning
 
 
 
