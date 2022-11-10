@@ -128,8 +128,6 @@ Topics
     [[PDF]](http://www0.cs.ucl.ac.uk/staff/J.Alglave/papers/fmsd12-41-2.pdf)
     
 
-TBA.
-
 ### B.  Non-volatile Memory
 
 TBA.
