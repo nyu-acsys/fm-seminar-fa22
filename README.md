@@ -18,7 +18,7 @@ We meet Tuesdays, 11am, in room 527, 60FA.
 | Oct 20 | Nisarg Patel      | A.2 TSO: Modeling - TSO characterization
 | Oct 27 | Jacob Salzberg     | A.2 TSO: Verification
 | Nov 3  | Daniel Feldan      | A.4 Axiomatic models
-| Nov 10 |       |
+| Nov 10 | Devora Chait-Roth      | A.3 Promising semantics
 | Nov 17 |       |
 | Nov 24 |       | Thanksgiving
 | Dec 1  |       | 
@@ -100,7 +100,15 @@ Topics
 
 #### A.3. C11
 
-TBA.
+  - Jeehoon Kang, Chung-Kil Hur, Ori Lahav, Viktor Vafeiadis, Derek Dreyer:
+    *A promising semantics for relaxed-memory concurrency*. 
+    POPL 2017.
+    [[pdf]](https://dl.acm.org/doi/10.1145/3009837.3009850)
+
+  - Ori Lahav, Nick Giannarakis, Viktor Vafeiadis:
+    *Taming release-acquire consistency*. 
+    POPL 2016.
+    [[pdf]](https://dl.acm.org/doi/10.1145/2837614.2837643)
 
 #### A.4. Axiomatic Memory Models
 
