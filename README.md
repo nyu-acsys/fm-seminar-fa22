@@ -19,7 +19,7 @@ We meet Tuesdays, 11am, in room 527, 60FA.
 | Oct 27 | Jacob Salzberg     | A.2 TSO: Verification
 | Nov 3  | Daniel Feldan      | A.4 Axiomatic models
 | Nov 10 | Devora Chait-Roth      | A.3 Promising semantics
-| Nov 17 |       |
+| Nov 17 | Ekanshdeep Gupta   | A.2 TSO: Verification
 | Nov 24 |       | Thanksgiving
 | Dec 1  |       | 
 | Dec 8  |       | 
@@ -97,6 +97,11 @@ Topics
     ESOP, 2013.  
     [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-37036-6_29.pdf)
 
+
+  - Parosh Aziz Abdulla, Mohamed Faouzi Atig, Ahmed Bouajjani, K. Narayan Kumar:
+    *Deciding reachability under persistent x86-TSO*.
+    POPL, 2021
+    [[PDF]](https://dl.acm.org/doi/10.1145/3434337)
 
 #### A.3. C11
 
