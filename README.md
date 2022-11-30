@@ -21,7 +21,7 @@ We meet Tuesdays, 11am, in room 527, 60FA.
 | Nov 10 | Devora Chait-Roth      | A.3 Promising semantics
 | Nov 17 | Ekanshdeep Gupta   | B Non-persistent TSO
 | Nov 24 |       | Thanksgiving
-| Dec 1  |       | 
+| Dec 1  | David Naumann (Stevens) | **Talk** Towards algebraic foundations for alignment  
 | Dec 8  |       | 
 | Dec 15 | Kishor Jothimurugan (UPenn)  | **Talk** Specification-guided Reinforcement Learning
 
